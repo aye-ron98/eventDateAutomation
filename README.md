@@ -20,4 +20,24 @@ To run this project you will need:
 - [pipenv](https://pipenv.pypa.io/en/latest/)
 
 ## Getting started
-TODO: write guide
+### Run Locally
+clone the project
+```
+https://github.com/aye-ron98/eventDateAutomation.git
+```
+Go to project directory
+```
+cd eventDateAutomation
+```
+Install Dependencies
+```
+pip install -r requirements.txt
+```
+Update Dependencies 
+```
+pipenv update
+```
+Start the virtual enviornemnt
+```
+pipenv shell
+```
